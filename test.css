@@ -1,0 +1,156 @@
+table, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    empty-cells: hide;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+  }
+  th {
+    padding: 5px;
+    text-align: left;    
+  }
+
+  h1, h2, h3, h4, h5, h6, p {
+    font-size: x-large;
+
+  }
+  table {
+
+    position: absolute;
+    left: 40%;
+    top: 40%
+  }
+
+  .t {
+   border-bottom:30px solid black;
+   width: 200px;
+   position: absolute;
+   top:5%;
+   left: 5%;
+
+
+  }
+
+  h1 {
+
+    position: absolute;
+    color: white;
+    top:20px;
+    left: 160px;
+  }
+
+.u {
+    border: 30px solid black;
+    border-top: white;
+    border-bottom:white;
+    height: 200px;
+    border-right:white;
+    position: absolute;
+    top: 9.5%;
+    left:2.8%;
+    
+
+  }
+
+  h2 {
+    position: absolute;
+    top: 20%;
+    left:3.2%;
+    color:white;
+  }
+
+.v{
+  border: 30px solid black;
+  border-top: white;
+  border-bottom:white;
+  height: 200px;
+  border-left:white;
+  position: absolute;
+  top: 9.5%;
+  left:19.5%
+}
+
+h3 {
+    position: absolute;
+    top: 20%;
+    left:20%;
+    color:white;
+
+}
+.w{
+border-bottom:30px solid black;
+width: 200px;
+position: absolute;
+top:39.5%;
+left: 5%;
+}
+
+h4 {
+
+    position:absolute;
+
+    color: white;
+    top:35.1%;
+    left:160px;
+}
+
+.x {
+
+
+    border: 30px solid black;
+    border-top: white;
+    border-bottom:white;
+    height: 200px;
+    border-right:white;
+    position: absolute;
+    top: 44%;
+    left:2.8%;
+    
+}
+
+h5 {
+
+    position: absolute;
+    top: 52%;
+    left:3.2%;
+    color:white;
+}
+
+.y {
+
+    border: 30px solid black;
+    border-top: white;
+    border-bottom:white;
+    height: 200px;
+    border-left:white;
+    position: absolute;
+    top: 44%;
+    left:19.5%
+}
+
+h6 {
+
+    position: absolute;
+    top: 50%;
+    left:19.9%;
+    color:white;
+}
+
+.z {
+
+
+    border-bottom:30px solid black;
+    width: 200px;
+    position: absolute;
+    top:74%;
+    left: 5%;
+}
+
+p {
+
+    position: absolute;
+    color:red;
+    top:70.5%;
+    left: 160px;
+    color: white;
+}
